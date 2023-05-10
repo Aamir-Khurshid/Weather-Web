@@ -1,0 +1,28 @@
+body {
+    background-image: url(weatherbg.jpg);
+}
+
+.d-flex {
+    padding-right: 20px;
+}
+
+.container-fluid {
+    background-color: rgb(194, 249, 249);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.collapse {
+    position: absolute;
+    right: 300px;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+    width: 50%;
+}
+
+.navbar {
+    --bs-navbar-padding-x: 0;
+    --bs-navbar-padding-y: 0;
+}
